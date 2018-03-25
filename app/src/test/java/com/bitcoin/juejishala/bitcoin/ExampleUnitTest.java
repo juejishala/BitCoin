@@ -1,4 +1,4 @@
-package com.bitcoin.juejishala.bitcoinapplication;
+package com.bitcoin.juejishala.bitcoin;
 
 import org.junit.Test;
 

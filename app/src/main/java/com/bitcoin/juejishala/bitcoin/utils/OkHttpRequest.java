@@ -1,4 +1,4 @@
-package com.bitcoin.juejishala.bitcoinapplication.utils;
+package com.bitcoin.juejishala.bitcoin.utils;
 
 import android.text.TextUtils;
 

@@ -1,4 +1,4 @@
-package com.bitcoin.juejishala.bitcoinapplication;
+package com.bitcoin.juejishala.bitcoin;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

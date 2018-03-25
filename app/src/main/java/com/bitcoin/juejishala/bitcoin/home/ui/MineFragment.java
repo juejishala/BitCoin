@@ -1,4 +1,4 @@
-package com.bitcoin.juejishala.bitcoinapplication.home.ui;
+package com.bitcoin.juejishala.bitcoin.home.ui;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -7,8 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.bitcoin.juejishala.bitcoinapplication.R;
-import com.bitcoin.juejishala.bitcoinapplication.view.PullZoomView;
+import com.bitcoin.juejishala.bitcoin.R;
+import com.bitcoin.juejishala.bitcoin.view.PullZoomView;
 
 /**
  * @author yinyayue

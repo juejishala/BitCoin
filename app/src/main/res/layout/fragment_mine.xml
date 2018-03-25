@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.bitcoin.juejishala.bitcoinapplication.view.PullZoomView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.bitcoin.juejishala.bitcoin.view.PullZoomView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/zoom_header"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -14,4 +14,4 @@
         <include
             layout="@layout/mine_content" />
     </LinearLayout>
-</com.bitcoin.juejishala.bitcoinapplication.view.PullZoomView>
+</com.bitcoin.juejishala.bitcoin.view.PullZoomView>

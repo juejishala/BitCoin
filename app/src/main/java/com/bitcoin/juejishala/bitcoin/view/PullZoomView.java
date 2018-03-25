@@ -1,4 +1,4 @@
-package com.bitcoin.juejishala.bitcoinapplication.view;
+package com.bitcoin.juejishala.bitcoin.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -12,7 +12,7 @@ import android.view.ViewTreeObserver;
 import android.widget.ScrollView;
 import android.widget.Scroller;
 
-import com.bitcoin.juejishala.bitcoinapplication.R;
+import com.bitcoin.juejishala.bitcoin.R;
 
 /**
  * Created by yinyayue on 2018/3/22.

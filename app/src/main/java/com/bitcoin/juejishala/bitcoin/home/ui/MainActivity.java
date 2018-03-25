@@ -1,4 +1,4 @@
-package com.bitcoin.juejishala.bitcoinapplication.home.ui;
+package com.bitcoin.juejishala.bitcoin.home.ui;
 
 import android.support.v4.app.FragmentTabHost;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.bitcoin.juejishala.bitcoinapplication.R;
-import com.bitcoin.juejishala.bitcoinapplication.base.BaseActivity;
+import com.bitcoin.juejishala.bitcoin.R;
+import com.bitcoin.juejishala.bitcoin.base.BaseActivity;
 
 /**
  * @author yinyayue
@@ -32,7 +32,7 @@ public class MainActivity extends BaseActivity {
         mTabHost.addTab(mTabHost.newTabSpec(getString(R.string.home)).setIndicator(getTabIndicator(getString(R.string.home))),
                 HomeFragment.class, null);
         mTabHost.addTab(mTabHost.newTabSpec(getString(R.string.news_flash)).setIndicator(getTabIndicator(getString(R.string.news_flash))),
-                NewsFlashFragment.class, null);
+                RankingFragment.class, null);
         mTabHost.addTab(mTabHost.newTabSpec(getString(R.string.ranking)).setIndicator(getTabIndicator(getString(R.string.ranking))),
                 RankingFragment.class, null);
         mTabHost.addTab(mTabHost.newTabSpec(getString(R.string.mine)).setIndicator(getTabIndicator(getString(R.string.mine))),

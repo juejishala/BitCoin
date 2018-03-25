@@ -1,10 +1,7 @@
-package com.bitcoin.juejishala.bitcoinapplication.home.entity;
+package com.bitcoin.juejishala.bitcoin.home.entity;
 
-import android.app.Fragment;
 import android.os.Parcel;
 import android.os.Parcelable;
-
-import com.bitcoin.juejishala.bitcoinapplication.home.ui.HomeFragment;
 
 /**
  * 主页tab实体类
