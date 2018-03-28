@@ -21,12 +21,13 @@
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/icon"
-            android:layout_width="85.5dp"
-            android:layout_height="85.5dp"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:scaleType="centerCrop"
             android:src="@mipmap/ic_launcher_round"
             android:tag="zoom"
             app:civ_border_color="#FF0000"
-            app:civ_border_width="2dp" />
+            app:civ_border_width="4dp" />
 
 
         <LinearLayout
